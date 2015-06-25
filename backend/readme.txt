@@ -5,3 +5,11 @@ Mailjet
 venmo
 
 Possibly Steam.
+
+Login
+	Pulling Dta from cite
+	Server Info
+		Scripts
+		Storage
+	Connection to Database
+		
